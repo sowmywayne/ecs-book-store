@@ -1,0 +1,134 @@
+.coverImg {
+  width: 12rem;
+  height: 15rem;
+}
+
+.coverImgCon {
+  position: relative;
+}
+
+.coverTitle {
+  color: #ffe066;
+  font-family: "Potta One", cursive;
+  width: 10rem;
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 16px;
+  white-space: pre-wrap;
+}
+
+.coverAuthorName {
+  color: aliceblue;
+  font-size: 18px;
+  width: 10rem;
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  font-family: "Dancing Script", cursive;
+  white-space: pre-wrap;
+}
+
+.titleText {
+  margin-top: 0.2rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 28px;
+}
+
+.authorText {
+  margin-top: 0.2rem;
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+}
+
+.listRm {
+  border-radius: 0rem;
+  background-color: #d9d9d9;
+}
+
+.colPaddingRm {
+  margin-left: 0rem;
+  padding: 0rem;
+  left: 0rem;
+}
+
+.ratingCountText {
+  margin-top: 1rem;
+  font-size: 12px;
+  color: blue;
+}
+
+.priceText {
+  margin-top: 0.5rem;
+  font-size: 22px;
+  font-weight: 700;
+  color: brown;
+}
+
+.addToCartBtn {
+  font-size: 18px;
+  color: black;
+  margin-top:0.8rem;
+  padding: 3px 10px 3px 10px;
+  background-color: #F4BE2C;
+  border: 0px;
+}
+
+
+.paginationContainer {
+  float: right;
+  margin: 20px 40px 50px 20px;
+}
+
+.pageBox {
+
+  padding-bottom: 3px;
+  background-color: red;
+}
+
+.cartPosition {
+  margin-top: 10rem;
+  position: fixed;
+  width: 22rem;
+  height: 500px;
+  overflow:scroll;
+}
+
+.cartTitle {
+  font-size: 15px;
+  margin-bottom: 2px;
+  white-space: pre-wrap;
+}
+
+.cartAuthor {
+  font-size: 12px;
+  white-space: pre-wrap;
+}
+
+.cartLang {
+  font-size: 22px;
+  font-family: "Dancing Script", cursive;
+}
+
+.removeBtn {
+  color: azure;
+  margin-top: 5px;
+  border: 0px;
+  padding: 5px 5px 5px 5px;
+  background-color: red;
+}
+
+.logo {
+  margin: 1rem;
+  position: fixed;
+  width: 18rem;
+}
+
+.cartCheckOutBtn {
+  background-color: #F4BE2C;
+  margin-top: 700px;
+  margin-left: 5rem;
+  position: fixed;
+  border: 0px;
+  padding: 1rem;
+}
